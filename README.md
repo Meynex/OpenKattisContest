@@ -1,0 +1,2 @@
+# OpenKattisContest
+My OpenKattis Contest
