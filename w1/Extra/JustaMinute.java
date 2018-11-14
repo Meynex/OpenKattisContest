@@ -1,3 +1,4 @@
+package Extra;
 import java.util.Scanner;
 public class JustaMinute {
     private double obsSeconds;

@@ -1,3 +1,4 @@
+package T6;
 
 public class HelloWorld {
 

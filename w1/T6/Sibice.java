@@ -1,9 +1,8 @@
+package T6;
 import java.util.Scanner;
-import java.math.*;
 public class Sibice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int n,w,h;
 		n = sc.nextInt();

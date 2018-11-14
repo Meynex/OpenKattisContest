@@ -1,3 +1,4 @@
+package T6;
 import java.util.Scanner;
 
 public class Take_Two_Stones {

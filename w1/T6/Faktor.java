@@ -1,3 +1,4 @@
+package T6;
 import java.util.Scanner;
 
 public class Faktor {
@@ -9,5 +10,6 @@ public class Faktor {
         int impactFactor = Integer.parseInt(p[1]);
         int bribes = numPublished * impactFactor - (numPublished-1);
         System.out.println(bribes);
+        scan.close();
     }
 }

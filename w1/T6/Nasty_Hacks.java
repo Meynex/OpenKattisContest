@@ -1,3 +1,4 @@
+package T6;
 import java.util.Scanner;
 public class Nasty_Hacks {
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Extra;
 import java.util.Scanner;
 public class Hissing_Microphone {
 
@@ -8,6 +9,8 @@ public class Hissing_Microphone {
 		String input = Sc.nextLine();
 		if(input.contains("ss")) System.out.println("hiss");
 		else System.out.println("no hiss");
+		
+		Sc.close();
 	}
 
 }

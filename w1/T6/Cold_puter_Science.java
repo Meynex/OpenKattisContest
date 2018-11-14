@@ -1,3 +1,4 @@
+package T6;
 import java.util.Scanner;
 public class Cold_puter_Science {
 

@@ -1,6 +1,6 @@
+package T6;
 import java.io.*;
 import java.util.*;
-import java.lang.*;
 import java.lang.StringBuffer;
 
 public class Yoda {
